@@ -20,7 +20,7 @@ class Pessoa (nomeinicial: String){
 
 fun main(){
 
-    val p = Pessoa("Samuel")
+    val p = Pessoa("")
 
 
 }
