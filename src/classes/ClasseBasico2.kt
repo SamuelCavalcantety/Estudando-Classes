@@ -4,7 +4,6 @@ package classes
 
      val nome: String = "Samuel"
 
-
  }
 
 fun main (){
@@ -14,9 +13,6 @@ fun main (){
 
     println("Olá, ${c.nome}")
 }
-
-
-
     /*Comecei declarando uma classe com o nome Cliente e, dentro do seu escopo,
     defini uma constante chamada nome do tipo String.
     Em seguida, tentei inicializar essa constante com um valor.

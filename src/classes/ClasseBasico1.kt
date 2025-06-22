@@ -6,7 +6,6 @@ class Pessoa (nomeinicial: String){
 
     val nome: String = nomeinicial
 
-
     /*
         O fato do nomeinicial de não ter sido inicializado como val ou var
         faz com que ele não se torne um atributo de instância.
